@@ -1,1 +1,4 @@
 //This is a practice to build a python webapp
+//Front-end engine template: jinja2
+//Async framework aiohttp
+//Database: MySQL
